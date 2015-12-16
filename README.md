@@ -20,3 +20,4 @@ When Stride started, it was started by a team of hackers that decided it would b
 *a few deletions of important code that cause the current build to be unstable to release*
 
 ###Credit goes to Mr. Batty and Alexalexer for this build of the source.
+NOTE: THIS WAS NOT LEAKED BY ME IT WAS LEAKED BY TOONTOWNSTRIDEOFFICAL 
