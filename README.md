@@ -2,7 +2,7 @@
  Poodletooth i-Land - open sourced and free to use.
 
 ##Tired of waiting for a release?
-Great news! Poodletooth is now available to the public on Github!
+Great news! Poodletooth iLand is now available to the public on Github!
 
 ##Are we allowed to use this in any projects?
 Yes, you can! No need to worry! The official Poodletooth iLand team welcomes you to **build off any files listed inside the repository after you clone.**
