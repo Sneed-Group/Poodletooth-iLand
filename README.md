@@ -1,5 +1,5 @@
-# Poodletooth i-Land
- Poodletooth i-Land - open sourced and free to use.
+# Poodletooth Island
+Poodletooth Island - open sourced and free to use.
 
 ##Tired of waiting for a release?
 Great news! Poodletooth iLand is now available to the public on Github!
