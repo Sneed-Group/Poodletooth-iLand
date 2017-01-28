@@ -1,6 +1,6 @@
 # Poodletooth Island
 Poodletooth Island - open sourced and free to use.
-##Please note - The unarchived files are the 'old branch.' Please look in the 'shipped branch' for supported releases. Thanks!
+##Please note - The unarchived files are the 'old branch.' Please look at our website for newer packages!
 
 ##Tired of waiting for a release?
 Great news! Poodletooth iLand is now available to the public on Github!
