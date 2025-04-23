@@ -27,7 +27,7 @@ def rejectConfig(issue, securityIssue=True, stupid=True):
     if securityIssue:
         print 'THIS IS A SECURITY ISSUE!'
     if stupid:
-        print '"OEAP! Eh-shit That was dumb."\n  - Poodletooh, 2025.'
+        print '"OEAP! Eh-shit, That was dumb."\n  - Poodletooh, 2025.'
     print 'Please fix this!'
     exit()
 
