@@ -52,7 +52,7 @@ if accountDBType == 'remote':
         rejectConfig('you have not changed the api key in config/local.prc')
 
     if len(accountServerSecret) < 16:
-        rejectConfig('the secret is too small! Make it 16+ bytes', retarded=False)
+        rejectConfig('the secret is too small! Make it 16+ bytes', stupid=False)
 
     secretLength = len(accountServerSecret)
     ideal = entropyIdeal(secretLength) / 2
@@ -60,7 +60,7 @@ if accountDBType == 'remote':
     if entropy < ideal:
         rejectConfig('the secret entropy is too low! For %d bytes,'
                      ' it should be %d. Currently it is %d' % (secretLength, ideal, entropy),
-                     retarded=False)
+                     stupid=False)
 
     hashAlgo = getattr(hashlib, accountServerHashAlgo, None)
     if not hashAlgo:
