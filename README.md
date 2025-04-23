@@ -2,19 +2,19 @@
 Poodletooth Island - open sourced and free to use.
 ##Please note - The unarchived files are the 'old branch.' Please look at our website for newer packages!
 
-##Tired of waiting for a release?
+## Tired of waiting for a release?
 Great news! Poodletooth iLand is now available to the public on Github!
 
-##Are we allowed to use this in any projects?
+## Are we allowed to use this in any projects?
 Yes, you can! No need to worry! The official Poodletooth iLand team welcomes you to **build off any files listed inside the repository after you clone.**
 
-##Why do this?
+## Why do this?
 Since Poodletooth iLand was originally meant to be a community-based server, we decided to make it *truly* community based on behalf of the original contributers to the source.
 
-##Is this version safe?
+## Is this version safe?
 Feel free to scan yourself and give us feedback on your findings!
 
-##A lot of this code looks stolen, why is this?
+## A lot of this code looks stolen, why is this?
 
 Because it's based off of Toontown Stride
 
@@ -23,5 +23,6 @@ When Stride started, it was started by a team of hackers that decided it would b
 *The new pick a room screen*
 *a few deletions of important code that cause the current build to be unstable to release*
 
-###Credit goes to Mr. Batty and Alexalexer for this build of the source.
+### Credit goes to Mr. Batty and Alexalexer for this build of the source.
+
 NOTE: THIS WAS NOT LEAKED BY ME IT WAS LEAKED BY TOONTOWNSTRIDEOFFICAL 
