@@ -18,17 +18,17 @@ import anydbm, math, os
 import urllib2, time, urllib
 import cookielib, socket
 
-def rejectConfig(issue, securityIssue=True, retarded=True):
+def rejectConfig(issue, securityIssue=True, stupid=True):
     print
     print
     print 'Lemme get this straight....'
     print 'You are trying to use remote account database type...'
     print 'However,', issue + '!!!!'
     if securityIssue:
-        print 'Do you want this server to get hacked?'
-    if retarded:
-        print '"Either down\'s or autism"\n  - JohnnyDaPirate, 2015'
-    print 'Go fix that!'
+        print 'THIS IS A SECURITY ISSUE!'
+    if stupid:
+        print '"OEAP! Eh-shit That was dumb."\n  - Poodletooh, 2025.'
+    print 'Please fix this!'
     exit()
 
 def entropy(string):
